@@ -1,0 +1,17 @@
+.mainContainer {
+    background-color: rgb(86, 211, 86);
+    width: 600px;
+    min-height: 500px;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 26px;
+}
+
+h1 {
+    color: rgb(4, 100, 33);
+    font-size: 25px;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    margin: 20px 0;
+    text-transform: capitalize;
+}
